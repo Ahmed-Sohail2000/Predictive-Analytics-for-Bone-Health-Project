@@ -34,6 +34,8 @@ The project objectives is to:
 15. Scatter plots - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html#matplotlib.axes.Axes.scatter
 16. Correlation Heatmap - https://www.google.com/url?q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fseaborn-heatmap-a-comprehensive-guide%2F
 
+Charts of the 3 deep learning models: TabNet, ANN, Wide and Deep Model showing the accuracy and loss curves for train and test
+
 ![image](https://github.com/user-attachments/assets/30a0ad06-a23a-4c0e-9c20-2eca4a13f9b6)
 
 ## Comclusion and final thoughts
